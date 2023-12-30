@@ -13,15 +13,15 @@
 <img width="1108" alt="image" src="https://github.com/lightbluening/Predicative-Analytics-Via-Pyspark/assets/93415125/dbd0e174-6c42-4fcd-93b0-8366de6d1c1a">
 
 ### Methodology 
-Data Cleaning: 
+* Data Cleaning: 
 	Check missing values, duplicates, outliers
-Feature Engineering:
+* Feature Engineering:
 	Add new columns(features), sentiment score(Vader), product average rating, to enhance analytical capability.
-Data Exploration
+* Data Exploration
   Exploratory Data Analysis (EDA): Trend Analysis, Drill-down Analysis 
   Correlation Analysis
   Text Analysis
-Machine Learning
+* Machine Learning
   Data Transformation: One Hot Encoding 
   Multiclass Classification Models: Logistic Regression, Multiclass Linear SVM, Decision Tree, Naïve Bayes
   Model Evaluation Metrics: Test Accuracy, Test Precision, Test Recall, Test F1 Score, Confusion Matrix
