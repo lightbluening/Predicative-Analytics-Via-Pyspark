@@ -1,9 +1,9 @@
 # Predicative-Analytics-Via-Pyspark
 ## Predicative Analytics of Amazon Product Ratings and Customer Reviews Via PySpark
 ### Data Overview
-Data Source:  Dr. Julian McAuley Lab at University of California, San Diego
-Original Data: 29 categories , 233 million reviews
-Our Data: 
+* Data Source:  Dr. Julian McAuley Lab at University of California, San Diego
+* Original Data: 29 categories , 233 million reviews
+* Our Data: 
 	- stratified sampling 12200 reviews from 9 categories
  	- around 1400 reviews for each category
 	- 4905 unique products
