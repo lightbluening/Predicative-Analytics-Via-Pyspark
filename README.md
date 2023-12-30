@@ -9,8 +9,13 @@
 	- 4905 unique products
 	- time range from 2000 to 2018
 ### Data Preparation
-<img width="1049" alt="image" src="https://github.com/lightbluening/Predicative-Analytics-Via-Pyspark/assets/93415125/7f2395a3-e17e-415f-8e10-adf5ce8855c5">
-<img width="1108" alt="image" src="https://github.com/lightbluening/Predicative-Analytics-Via-Pyspark/assets/93415125/dbd0e174-6c42-4fcd-93b0-8366de6d1c1a">
+* Challenges: Dataframe misalignment due to special characters.
+  * What we expect:
+  ![image](https://github.com/lightbluening/Predicative-Analytics-Via-Pyspark/assets/93415125/38fd7dad-5edf-4fe8-8b83-dc4c0bea8651)
+  * What we get:
+  ![image](https://github.com/lightbluening/Predicative-Analytics-Via-Pyspark/assets/93415125/fdfb28c9-51ff-47bb-8f1c-2b61d28a5925)
+
+
 
 ### Methodology 
 * Data Cleaning: 
@@ -22,9 +27,9 @@
   Correlation Analysis
   Text Analysis
 * Machine Learning
-  Data Transformation: One Hot Encoding 
-  Multiclass Classification Models: Logistic Regression, Multiclass Linear SVM, Decision Tree, Naïve Bayes
-  Model Evaluation Metrics: Test Accuracy, Test Precision, Test Recall, Test F1 Score, Confusion Matrix
+  * Data Transformation: One Hot Encoding 
+  * Multiclass Classification Models: Logistic Regression, Multiclass Linear SVM, Decision Tree, Naïve Bayes
+  * Model Evaluation Metrics: Test Accuracy, Test Precision, Test Recall, Test F1 Score, Confusion Matrix
 
 
 
